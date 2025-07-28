@@ -46,7 +46,7 @@
 # About Me
 
 <p>
-<img align="right" width="350" src="/assets/cat-typing.gif" alt="cat typing gif" />
+<img align="right" width="300" src="/assets/cat-typing.gif" alt="cat typing gif" />
 
 ✌️ &emsp; Enjoy programming and building web applications <br/><br/>
 💻 &emsp; Currently learning <b>Next.js</b> and <b>Docker</b> <br/><br/>
