@@ -52,9 +52,7 @@
 💻 &emsp; Currently learning <b>Next.js</b> and <b>Docker</b> <br/><br/>
 🌱 &emsp; Open to learning new technologies <br/><br/>
 🧑‍💻 &emsp; Passionate about web development and design <br/><br/>
-🤝 &emsp; Always looking to collaborate with other developers <br/><br/>
 📫 &emsp; Feel free to reach out to me via email or social media <br/><br/>
-💬 &emsp; Let's connect and share ideas! <br/><br/>
 ⚡ &emsp; Fun fact: I love photography and watching movies! <br/><br/>
 
 </p>
