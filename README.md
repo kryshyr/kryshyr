@@ -89,7 +89,7 @@
   </a>
 </p>
 
-  <a href="https://github.com/kryshyr"><img alt="Kryshyr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kryshyr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+
 <!--
 **kryshyr/kryshyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
