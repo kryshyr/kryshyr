@@ -54,9 +54,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-
 <!-- LANGUAGES AND TOOLS -->
 # Languages and Tools
 
@@ -82,6 +79,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 
+
+<br/>
+
+<!-- GITHUB STATS -->
+# GitHub Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kryshyr&show_icons=true&theme=radical" alt="Kaira's GitHub Stats" />
+    
 
 <!--
 **kryshyr/kryshyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
