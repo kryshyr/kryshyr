@@ -84,14 +84,14 @@
 
 
 <!-- github streak -->
-# GitHub Streak
 <p align="center">
-<a href="https://github.com/kryshyr">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryshyr&theme=radical&border=7F3FBF&background=0D1117" alt="Kryshyr's GitHub streak"/>
-  </a>
+    <a href="https://github.com/kryshyr">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryshyr&theme=radical&border=7F3FBF&background=0D1117" alt="Kryshyr's GitHub streak" height="192px" style="display:inline-block;vertical-align:middle;width:49.5%;" />
+    </a>
+    <a href="https://github.com/kryshyr">
+        <img alt="Kryshyr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kryshyr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" style="display:inline-block;vertical-align:middle;width:49.5%;" />
+    </a>
 </p>
-
-  <a href="https://github.com/kryshyr"><img alt="Kryshyr's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kryshyr&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <!--
 **kryshyr/kryshyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
