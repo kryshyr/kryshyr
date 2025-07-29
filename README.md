@@ -82,12 +82,12 @@
 
 <br/>
 
-<!-- GITHUB STATS -->
-# GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kryshyr&show_icons=true&theme=radical" alt="Kaira's GitHub Stats" />
-    
-
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryshyr&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryshyr&layout=compact&theme=dark" alt="Most Used Languages" />
+</p>
 <!--
 **kryshyr/kryshyr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
