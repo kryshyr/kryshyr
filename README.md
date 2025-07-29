@@ -1,18 +1,11 @@
-<!-- ANIMATED HEADER WITH WAVE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20from%20the%20Philippines&descSize=15&descAlignY=55" width="100%"/>
-</div>
-
 <!-- ## Hi there 👋 -->
 
 <!-- INTRO -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there!+I'm+Kaira+👋;Full+Stack+Developer;Welcome+to+my+GitHub!" />
-</h1>
+<h1 align="center">Hello there! I'm Kaira 👋</h1>
 
 <p align="center">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&center=true&vCenter=true&width=600&height=50&duration=3000&lines=I+am+an+aspiring+full+stack+web+developer;From+the+beautiful+Philippines+🇵🇭;Passionate+about+creating+amazing+web+apps!" />
+    「 I am an aspiring full stack web application developer from the <b>Philippines </b> 」
     <br>
     <br>
 </p>
@@ -42,17 +35,7 @@
 
 </p>
 
-<!-- Animated Computer Icon -->
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</div>
-
 <br />
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 
 <!-- ABOUT SECTION -->
 
@@ -71,11 +54,6 @@
 </p>
 
 <br/>
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
 <!-- LANGUAGES AND TOOLS -->
 # Languages and Tools
 
@@ -101,10 +79,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=white)
 
-<!-- Animated skills section with rainbow divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+
+<br/>
+
 
 ## 📊 GitHub Stats
 
